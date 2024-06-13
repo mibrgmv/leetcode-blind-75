@@ -22,12 +22,50 @@
 19|Subtree of Another Tree|[572](https://leetcode.com/problems/subtree-of-another-tree/description/)|🟢
 20|Longest Substring Without Repeating Characters|[3](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)|🟡
 21|Longest Palindromic Substring|[5](https://leetcode.com/problems/longest-palindromic-substring/description/)|🟡
-23|Container With Most Water|[11](https://leetcode.com/problems/container-with-most-water/description/)|🟡
-24|3Sum|[15](https://leetcode.com/problems/3sum/description/)|🟡
-25|Remove Nth Node From End of List|[19](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)|🟡
-
-
-
-
-
-
+22|Container With Most Water|[11](https://leetcode.com/problems/container-with-most-water/description/)|🟡
+23|3Sum|[15](https://leetcode.com/problems/3sum/description/)|🟡
+24|Remove Nth Node From End of List|[19](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)|🟡
+25|Search in Rotated Sorted Array|[33](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)|🟡
+26|Combination Sum|[39](https://leetcode.com/problems/combination-sum/description/)|🟡
+27|Rotate Image|[48](https://leetcode.com/problems/rotate-image/description/)|🟡
+28|Group Anagrams|[49](https://leetcode.com/problems/group-anagrams/description/)|🟡
+29|Maximal Subarray|[53](https://leetcode.com/problems/maximum-subarray/description/)|🟡
+30|Spiral Matrix|[54](https://leetcode.com/problems/spiral-matrix/description/)|🟡
+31|Jump Game|[55](https://leetcode.com/problems/jump-game/description/)|🟡
+32|Merge Intervals|[56](https://leetcode.com/problems/merge-intervals/description/)|🟡
+33|Insert Interval|[57](https://leetcode.com/problems/insert-interval/description/)|🟡
+34|Unique Paths|[62](https://leetcode.com/problems/unique-paths/description/)|🟡
+35|Set Matrix Zeroes|[73](https://leetcode.com/problems/set-matrix-zeroes/description/)|🟡
+36|Word Search|[79](https://leetcode.com/problems/word-search/description/)|🟡
+37|Decode Ways|[91](https://leetcode.com/problems/decode-ways/description/)|🟡
+38|Validate Binary Search Tree|[98](https://leetcode.com/problems/validate-binary-search-tree/description/)|🟡
+39|Binary Tree Level Order Traversal|[102](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)|🟡
+40|Construct Binary Tree from Preorder and Inorder Traversal|[105](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/)|🟡
+41|Longest Consecutive Sequence|[128](https://leetcode.com/problems/longest-consecutive-sequence/description/)|🟡
+42|Clone Graph|[133](https://leetcode.com/problems/clone-graph/description/)|🟡
+43|Word Break|[139](https://leetcode.com/problems/word-break/description/)|🟡
+44|Reorder List|[143](https://leetcode.com/problems/reorder-list/description/)|🟡
+45|Maximum Product Subarray|[152](https://leetcode.com/problems/maximum-product-subarray/description/)|🟡
+46|Find Minimum in Rotated Sorted Array|[153](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)|🟡
+47|House Robber|[198](https://leetcode.com/problems/house-robber/description/)|🟡
+48|Number of Islands|[200](https://leetcode.com/problems/number-of-islands/description/)|🟡
+49|Course Schedule|[207](https://leetcode.com/problems/course-schedule/description/)|🟡
+50|Implement Trie (Prefix Tree)|[208](https://leetcode.com/problems/implement-trie-prefix-tree/description/)|🟡
+51||[211]()|🟡
+52||[213]()|🟡
+53||[230]()|🟡
+54||[235]()|🟡
+55||[238]()|🟡
+56||[253]()|🟡
+57||[261]()|🟡
+58||[271]()|🟡
+59||[300]()|🟡
+60||[322]()|🟡
+61||[323]()|🟡
+62||[347]()|🟡
+63||[371]()|🟡
+64||[417]()|🟡
+65||[424]()|🟡
+66||[435]()|🟡
+67||[647]()|🟡
+67||[1143]()|🟡
