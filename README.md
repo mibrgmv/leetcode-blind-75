@@ -68,4 +68,11 @@
 65|Longest Repeating Character Replacement|[424](https://leetcode.com/problems/longest-repeating-character-replacement/description/)|🟡
 66|Non-overlapping Intervals|[435](https://leetcode.com/problems/non-overlapping-intervals/description/)|🟡
 67|Palindromic Substrings|[647](https://leetcode.com/problems/palindromic-substrings/description/)|🟡
-67|Longest Common Subsequence|[1143](https://leetcode.com/problems/longest-common-subsequence/description/)|🟡
+68|Longest Common Subsequence|[1143](https://leetcode.com/problems/longest-common-subsequence/description/)|🟡
+69|Merge k Sorted Lists|[23](https://leetcode.com/problems/merge-k-sorted-lists/description/)|🔴
+70|Minimum Window Substring|[76](https://leetcode.com/problems/minimum-window-substring/description/)|🔴
+71|Binary Tree Maximum Path Sum|[124](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/)|🔴
+72|Word Search II|[212](https://leetcode.com/problems/word-search-ii/description/)|🔴
+73|Alien Dictionary|[269](https://leetcode.com/problems/alien-dictionary/description/)|🔴
+74|Find Median from Data Stream|[295](https://leetcode.com/problems/find-median-from-data-stream/description/)|🔴
+75|Serialize and Deserialize Binary Tree|[297](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/)|🔴
