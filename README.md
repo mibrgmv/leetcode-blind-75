@@ -20,4 +20,14 @@
 17|Missing Number|[268](https://leetcode.com/problems/missing-number/description/)|🟢
 18|Counting Bits|[338](https://leetcode.com/problems/counting-bits/description/)|🟢
 19|Subtree of Another Tree|[572](https://leetcode.com/problems/subtree-of-another-tree/description/)|🟢
+20|Longest Substring Without Repeating Characters|[3](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)|🟡
+21|Longest Palindromic Substring|[5](https://leetcode.com/problems/longest-palindromic-substring/description/)|🟡
+23|Container With Most Water|[11](https://leetcode.com/problems/container-with-most-water/description/)|🟡
+24|3Sum|[15](https://leetcode.com/problems/3sum/description/)|🟡
+25|Remove Nth Node From End of List|[19](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)|🟡
+
+
+
+
+
 
