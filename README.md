@@ -2,7 +2,7 @@
 |№|Name|#|Series|
 -|-|-|-
 [1](https://github.com/mibrgmv/leetcode-blind-75/blob/main/src/two_sum__0001/Solution.java)|Two Sum|[1](https://leetcode.com/problems/two-sum/description/)|🟢
-2|Valid Parentheses|[20](https://leetcode.com/problems/valid-parentheses/description/)|🟢
+[2](https://github.com/mibrgmv/leetcode-blind-75/blob/main/src/valid_parentheses__0020/Solution.java)|Valid Parentheses|[20](https://leetcode.com/problems/valid-parentheses/description/)|🟢
 3|Merge Two Sorted Lists|[21](https://leetcode.com/problems/merge-two-sorted-lists/description/)|🟢
 4|Climbing Stairs|[70](https://leetcode.com/problems/climbing-stairs/description/)|🟢
 5|Same Tree|[100](https://leetcode.com/problems/same-tree/description/)|🟢
