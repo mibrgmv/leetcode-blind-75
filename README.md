@@ -29,7 +29,7 @@
 26|Combination Sum|[39](https://leetcode.com/problems/combination-sum/description/)|🟡
 27|Rotate Image|[48](https://leetcode.com/problems/rotate-image/description/)|🟡
 28|Group Anagrams|[49](https://leetcode.com/problems/group-anagrams/description/)|🟡
-29|Maximal Subarray|[53](https://leetcode.com/problems/maximum-subarray/description/)|🟡
+29|Maximum Subarray|[53](https://leetcode.com/problems/maximum-subarray/description/)|🟡
 30|Spiral Matrix|[54](https://leetcode.com/problems/spiral-matrix/description/)|🟡
 31|Jump Game|[55](https://leetcode.com/problems/jump-game/description/)|🟡
 32|Merge Intervals|[56](https://leetcode.com/problems/merge-intervals/description/)|🟡
