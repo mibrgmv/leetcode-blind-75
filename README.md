@@ -51,21 +51,21 @@
 48|Number of Islands|[200](https://leetcode.com/problems/number-of-islands/description/)|🟡
 49|Course Schedule|[207](https://leetcode.com/problems/course-schedule/description/)|🟡
 50|Implement Trie (Prefix Tree)|[208](https://leetcode.com/problems/implement-trie-prefix-tree/description/)|🟡
-51||[211]()|🟡
-52||[213]()|🟡
-53||[230]()|🟡
-54||[235]()|🟡
-55||[238]()|🟡
-56||[253]()|🟡
-57||[261]()|🟡
-58||[271]()|🟡
-59||[300]()|🟡
-60||[322]()|🟡
-61||[323]()|🟡
-62||[347]()|🟡
-63||[371]()|🟡
-64||[417]()|🟡
-65||[424]()|🟡
-66||[435]()|🟡
-67||[647]()|🟡
-67||[1143]()|🟡
+51|Design Add and Search Words Data Structure|[211](https://leetcode.com/problems/design-add-and-search-words-data-structure/description/)|🟡
+52|House Robber II|[213](https://leetcode.com/problems/house-robber-ii/description/)|🟡
+53|Kth Smallest Element in a BST|[230](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/)|🟡
+54|Lowest Common Ancestor of a Binary Search Tree|[235](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/)|🟡
+55|Product of Array Except Self|[238](https://leetcode.com/problems/product-of-array-except-self/description/)|🟡
+56|Meeting Rooms II|[253](https://leetcode.com/problems/meeting-rooms-ii/description/)|🟡
+57|Graph Valid Tree|[261](https://leetcode.com/problems/graph-valid-tree/description/)|🟡
+58|Encode and Decode Strings|[271](https://leetcode.com/problems/encode-and-decode-strings/description/)|🟡
+59|Longest Increasing Subsequence|[300](https://leetcode.com/problems/longest-increasing-subsequence/description/)|🟡
+60|Coin Change|[322](https://leetcode.com/problems/coin-change/description/)|🟡
+61|Number of Connected Components in an Undirected Graph|[323](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/description/)|🟡
+62|Top K Frequent Elements|[347](https://leetcode.com/problems/top-k-frequent-elements/description/)|🟡
+63|Sum of Two Integers|[371](https://leetcode.com/problems/sum-of-two-integers/description/)|🟡
+64|Pacific Atlantic Water Flow|[417](https://leetcode.com/problems/pacific-atlantic-water-flow/description/)|🟡
+65|Longest Repeating Character Replacement|[424](https://leetcode.com/problems/longest-repeating-character-replacement/description/)|🟡
+66|Non-overlapping Intervals|[435](https://leetcode.com/problems/non-overlapping-intervals/description/)|🟡
+67|Palindromic Substrings|[647](https://leetcode.com/problems/palindromic-substrings/description/)|🟡
+67|Longest Common Subsequence|[1143](https://leetcode.com/problems/longest-common-subsequence/description/)|🟡
