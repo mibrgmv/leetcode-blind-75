@@ -7,7 +7,7 @@
 4|Climbing Stairs|[70](https://leetcode.com/problems/climbing-stairs/description/)|🟢
 5|Same Tree|[100](https://leetcode.com/problems/same-tree/description/)|🟢
 6|Maximum Depth of Binary Tree|[104](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)|🟢
-7|Best Time to Buy and Sell Stock|[121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)|🟢
+[7](https://github.com/mibrgmv/leetcode-blind-75/blob/main/src/best_time_to_buy_and_sell_stock__0121/Solution.java)|Best Time to Buy and Sell Stock|[121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)|🟢
 8|Valid Palindrome|[125](https://leetcode.com/problems/valid-palindrome/description/)|🟢
 9|Linked List Cycle|[141](https://leetcode.com/problems/linked-list-cycle/description/)|🟢
 10|Reverse Bits|[190](https://leetcode.com/problems/reverse-bits/description/)|🟢
