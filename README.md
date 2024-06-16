@@ -20,10 +20,10 @@
 17|Missing Number|[268](https://leetcode.com/problems/missing-number/description/)|🟢
 18|Counting Bits|[338](https://leetcode.com/problems/counting-bits/description/)|🟢
 19|Subtree of Another Tree|[572](https://leetcode.com/problems/subtree-of-another-tree/description/)|🟢
-20|Longest Substring Without Repeating Characters|[3](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)|🟡
+[20](src/longest_substring_without_repeating_characters__0003/Solution.java)|Longest Substring Without Repeating Characters|[3](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)|🟡
 21|Longest Palindromic Substring|[5](https://leetcode.com/problems/longest-palindromic-substring/description/)|🟡
 22|Container With Most Water|[11](https://leetcode.com/problems/container-with-most-water/description/)|🟡
-23|3Sum|[15](https://leetcode.com/problems/3sum/description/)|🟡
+[23](src/three_sum__0015/Solution.java)|3Sum|[15](https://leetcode.com/problems/3sum/description/)|🟡
 24|Remove Nth Node From End of List|[19](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)|🟡
 25|Search in Rotated Sorted Array|[33](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)|🟡
 26|Combination Sum|[39](https://leetcode.com/problems/combination-sum/description/)|🟡
