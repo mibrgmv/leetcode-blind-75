@@ -1,5 +1,5 @@
 ## What is Blind 75? 
-Blind 75 is a popular list of 75 coding problems compiled by a user on Blind, a popular platform for career and workplace discussions. It is specifically designed to help software engineers prepare for technical interviews, particularly for positions at top tech companies.
+Blind 75 is a popular list of 75 coding problems compiled by a user on Blind, a platform for career and workplace discussions. It is specifically designed to help software engineers prepare for technical interviews, particularly for positions at top tech companies.
 
 ## Problems featured in the Blind 75 list
 | Solution                                                                                | Name                                                      | Link                                                                                                        | Topics                                                                 | Difficulty |
