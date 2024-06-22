@@ -2,6 +2,8 @@
 Blind 75 is a popular list of 75 coding problems compiled by a user on Blind, a platform for career and workplace discussions. It is specifically designed to help software engineers prepare for technical interviews, particularly for positions at top tech companies.
 
 ## Problems featured in the Blind 75 list
+\* – requires Premium
+
 | Solution                                                                                | Name                                                      | Link                                                                                                        | Topics                                                                 | Difficulty |
 |-----------------------------------------------------------------------------------------|-----------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|------------|
 | [1](src/two_sum__0001/Solution.java)                                                    | Two Sum                                                   | [1](https://leetcode.com/problems/two-sum/description/)                                                     | Array, Hash Table                                                      | 🟢         |
